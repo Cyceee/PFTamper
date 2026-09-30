@@ -1,4 +1,4 @@
-# PrefetchClean !
+# PrefetchTamper !
 
 > Modifica um arquivo **Windows Prefetch (`.pf`)** específico, mantendo algumas das entradas existentes e removendo o restante.
 
