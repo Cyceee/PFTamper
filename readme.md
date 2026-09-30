@@ -1,6 +1,6 @@
 # PrefetchClean
 
-> Uma ferramenta em C++ para modificar um arquivo **Windows Prefetch (`.pf`)** específico, mantendo algumas das entradas existentes e removendo o restante.
+> Modifica um arquivo **Windows Prefetch (`.pf`)** específico, mantendo algumas das entradas existentes e removendo o restante.
 
 ## O que faz
 
