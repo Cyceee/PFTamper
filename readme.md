@@ -12,5 +12,4 @@ O programa:
 - Grava o resultado novamente e restaura os timestamps originais.
 
 > [!TIP]
-> Apenas uma base 
-
+> A intenção é disponibilizar uma estrutura inicial para que outras pessoas possam estudar
