@@ -11,3 +11,6 @@ O programa:
 - Recompacta o arquivo.
 - Grava o resultado novamente e restaura os timestamps originais.
 
+> [!TIP]
+> Apenas uma base 
+
