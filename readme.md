@@ -11,5 +11,5 @@ O programa:
 - Recompacta o arquivo.
 - Grava o resultado novamente e restaura os timestamps originais.
 
-> [!TIP]
+> [!NOTE]
 > A intenção é disponibilizar uma estrutura inicial para que outras pessoas possam estudar
